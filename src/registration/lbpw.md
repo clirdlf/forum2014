@@ -21,15 +21,11 @@ Atlanta, GA 30322
 
 This workshop is for those that have some prior experience of Python, but need an extra boost to apply those skills to their work. Examples for the workshop will be tailored around participants’ use cases that surface in the first conference call; follow-up calls will focus on debugging their work and helping them find personally relevant next steps. Participation in all conference calls and the in-person workshop is required.
 
-### 
+### Overview
 
-Overview
-
-*   **Conference call 1** (90 minutes): Participants talk about what has and hasn’t worked for them in previous Python learning, and their programming use cases.
-
-*   **Workshop** (full-day, October 30): review of Python fundamentals. This will be a partially self-paced boot camp based on the **[Boston Python Workshop](http://bostonpythonworkshop.com/)**; however, the project portions will be replaced with a custom-designed project focused on building skills identified from participants’ use cases. There will be an assignment to work on for the follow-up calls.
-
-*   **Conference calls 2-4** (60 minutes each): Participants will collaborate to debug their programs and identify next steps. This encourages practice and skills application, in a personally relevant context.  The final conference call will be a chance for participants to showcase their work.
+    * **Conference call 1** (90 minutes): Participants talk about what has and hasn’t worked for them in previous Python learning, and their programming use cases.
+    *  **Workshop** (full-day, October 30): review of Python fundamentals. This will be a partially self-paced boot camp based on the **[Boston Python Workshop](http://bostonpythonworkshop.com/)**; however, the project portions will be replaced with a custom-designed project focused on building skills identified from participants’ use cases. There will be an assignment to work on for the follow-up calls.
+    * **Conference calls 2-4** (60 minutes each): Participants will collaborate to debug their programs and identify next steps. This encourages practice and skills application, in a personally relevant context.  The final conference call will be a chance for participants to showcase their work.
 
 Curriculum materials for the workshop portion will be freely available online after the event.
 
@@ -41,6 +37,6 @@ $150
 $100 for CLIR/DLF Postdoctoral Fellows  
 $75 for students
 
-[**Register**](https://web.archive.org/web/20141020045645/http://www.eventbrite.com/e/2014-dlf-forum-registration-6709352855) by October 10. Students use promotion code **PythonStudent14** to save $75. CLIR/DLF Postdoctoral Fellows use promotion code **CLIRDLFpfpPW** to save $50.
+[**Register**](http://www.eventbrite.com/e/2014-dlf-forum-registration-6709352855) by October 10. Students use promotion code **PythonStudent14** to save $75. CLIR/DLF Postdoctoral Fellows use promotion code **CLIRDLFpfpPW** to save $50.
 
 You do not need to attend the DLF Forum to attend this workshop.
