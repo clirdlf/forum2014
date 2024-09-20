@@ -2,8 +2,8 @@
 title: Hotel & Travel
 layout: base
 eleventyNavigation:
-  key: Hotel & Travel
-  order: 4
+    key: Hotel & Travel
+    order: 4
 ---
 The Forum is at the **[Georgia Tech Hotel & Conference Center](http://www.gatechhotel.com/)**, 800 Spring St. NW, Atlanta, GA 30308. Hotel rooms are in the same complex for $169/night for single or double occupancy, October 24–30.
 
@@ -11,8 +11,8 @@ The hotel is sold out.
 
 These hotels are nearby (we do not have room blocks):
 
-*   [Renaissance Atlanta Midtown](http://www.marriott.com/hotels/travel/atlbd-renaissance-atlanta-midtown-hotel/)
-*   [Hilton Garden Inn Atlanta Midtown](http://hiltongardeninn3.hilton.com/en/hotels/georgia/hilton-garden-inn-atlanta-midtown-ATLAMGI/index.html)
+* [Renaissance Atlanta Midtown](http://www.marriott.com/hotels/travel/atlbd-renaissance-atlanta-midtown-hotel/)
+* [Hilton Garden Inn Atlanta Midtown](http://hiltongardeninn3.hilton.com/en/hotels/georgia/hilton-garden-inn-atlanta-midtown-ATLAMGI/index.html)
 
 
 ## Travel Advisory – RoadClosures

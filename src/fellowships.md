@@ -2,8 +2,8 @@
 title: Fellowships
 layout: base
 eleventyNavigation:
-  key: Fellowships
-  order: 3
+    key: Fellowships
+    order: 3
 ---
 
 DLF is committed to bringing new voices and perspectives to the Forum. To this aim, we offer the following fellowships and travel awards:

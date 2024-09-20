@@ -2,8 +2,8 @@
 title: Livestream Schedule
 layout: base
 eleventyNavigation:
-  key: Livestream Schedule
-  order: 5
+    key: Livestream Schedule
+    order: 5
 ---
 
 DLF offered a livestream from the Forum. Streamed sessions were recorded, and held in [SMARTech](https://smartech.gatech.edu/), Georgia Tech’s institutional repository. Links to those sessions will be available soon.

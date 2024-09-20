@@ -2,8 +2,8 @@
 title: Things to Know
 layout: base
 eleventyNavigation:
-  key: Things to Know
-  order: 9
+    key: Things to Know
+    order: 9
 ---
 ## Green Initiatives
 

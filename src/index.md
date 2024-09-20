@@ -1,8 +1,8 @@
 ---
 layout: base
 eleventyNavigation:
-  key: "Forum Home"
-  order: 10
+    key: "Forum Home"
+    order: 10
 ---
 
 
@@ -19,12 +19,12 @@ Use the hashtag <a target="_blank" href="https://twitter.com/search?q=%23dlfforu
 
 {% for post in collections.posts %}
 <article class="blog-post border-bottom">
-    <h2 class="blog-post-title"><a href="{{ post.data.url }}">{{ post.data.title }}</a></h2>
-    <p class="blog-post-meta">{{ post.data.date | readableDate }} in <a href="https://www.diglib.org/category/forum/">Forum</a></p>
-    <p>{{ post.data.blurb }}...</p>
-    <p>
-        <a href="{{ post.data.url }}" class="btn btn-outline-primary">Read More</a>
-    </p>
+<h2 class="blog-post-title"><a href="{{ post.data.url }}">{{ post.data.title }}</a></h2>
+<p class="blog-post-meta">{{ post.data.date | readableDate }} in <a href="https://www.diglib.org/category/forum/">Forum</a></p>
+<p>{{ post.data.blurb }}...</p>
+<p>
+<a href="{{ post.data.url }}" class="btn btn-outline-primary">Read More</a>
+</p>
 </article>
 {% endfor %}
 

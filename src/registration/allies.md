@@ -15,11 +15,11 @@ Brief description slightly modified from full description available at [adainit
 
 Training by [Valerie Aurora](https://adainitiative.org/about-us/founders-and-staff/), Ada Initiative’s Founder
 
-Wednesday, October 29, 2014  
-3:00-5:00pm  
+Wednesday, October 29, 2014
+3:00-5:00pm
 Conference B, Georgia Tech Hotel and Conference Center
 
-Registration: $30  
+Registration: $30
 Limited to 30 participants.
 
 The Ally Skills Workshop is a program of the [Ada Initiative](https://adainitiative.org/), supporting women in open technology and culture.

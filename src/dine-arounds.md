@@ -2,8 +2,8 @@
 layout: base
 title: Dine Arounds
 eleventyNavigation:
-  key: Dine Arounds
-  order: 2
+    key: Dine Arounds
+    order: 2
 ---
 
 Keep the conversation going and try one of these hand-picked Atlanta restaurants at the Forum Dine Arounds, Tuesday, October 28. Reservations are for eight people at 6:30 pm.
