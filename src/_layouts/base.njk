@@ -16,6 +16,18 @@
 				</div>
 				<aside class="col-md-4">
 					<div class="position-sticky" style="top: 2rem;">
+
+						<div class="p-3">
+							<link href="/pagefind/pagefind-ui.css" rel="stylesheet"/>
+							<script src="/pagefind/pagefind-ui.js"></script>
+							<div id="search"></div>
+							<script>
+								window.addEventListener('DOMContentLoaded', (event) => {
+									new PagefindUI({element: '#search', showSubResults: true})
+								})
+							</script>
+						</div>
+
 						<div class="p-3">
 							{% include 'navigation.njk' %}
 						</div>
@@ -35,7 +47,7 @@
 			</div>
 		</main>
 		{% include 'footer.njk' %}
-		
+
 		<script type="module" src="{{ '/assets/js/main.js' | url }}"></script>
 
 	</body>
